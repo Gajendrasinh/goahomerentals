@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>sign</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vilagio_logo" transform="translate(-179.000000, -155.000000)">
+            <g id="Villagio_logo" transform="translate(179.000000, 155.000000)">
+                <g id="sign">
+                    <polygon id="Page-1" fill="#01BEA0" points="0 40 40 40 40 0 0 0"></polygon>
+                    <path d="M24,9.0005 L21.666,13.5385 L25.771,20.8445 L32,9.0005 L24,9.0005 Z M8,9.0005 L20.666,31.9995 L24.75,23.1165 L16.667,9.0005 L8,9.0005 Z" id="Page-1" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
